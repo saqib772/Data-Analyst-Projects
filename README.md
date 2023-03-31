@@ -1,14 +1,41 @@
 # Data-Analyst-Projects
-This repository contains a collection of Data Analytics projects that I have worked on. Each project includes the source code and the dataset used for analysis.
 
-The projects cover a range of topics in Data Analytics, including exploratory data analysis, data visualization, statistical analysis, and machine learning. Some of the projects include:
+# Data Analysis Projects
 
-* Analysis of Sales Data: In this project, I analyzed sales data to identify trends and patterns in sales over time. I used various techniques such as data visualization and time series analysis to gain insights into the data.
+This repository contains the following data analysis projects:
+- No-Show Movie Appointments
+- Soccer Data Analysis
+- Diamond Dataset Visualization
+- Prosper Loan Dataset Analysis
+- Communication Data Analysis
+- Data Wrangling Case Study
+- WeRateDogs Data Analysis
 
-* Predicting Employee Attrition: In this project, I built a machine learning model to predict which employees are most likely to leave the company. I used various classification algorithms such as logistic regression and decision trees to build the model.
+## No-Show Movie Appointments
 
-* Exploratory Analysis of Customer Reviews: In this project, I analyzed customer reviews of a product to identify common themes and sentiment. I used natural language processing techniques to extract insights from the text.
+This project analyzes a dataset of no-show appointments for movie theaters in Brazil. The dataset contains information on whether the patient showed up for their appointment or not, as well as other factors such as age and gender. The goal of this project is to identify patterns and trends in the data that may be useful for improving appointment attendance.
 
-The code in this repository is written in Python and includes Jupyter notebooks for each project. The datasets used for analysis are included in the repository as well.
+## Soccer Data Analysis
 
-Feel free to explore the projects and use the code as a reference for your own Data Analytics projects. If you have any questions or suggestions, feel free to raise an issue or contact me directly at saqibiqbal27772@gmail.com 
+This project analyzes a dataset of soccer matches from around the world. The dataset contains information on teams, players, and match outcomes. The goal of this project is to identify patterns and trends in the data that may be useful for predicting match outcomes.
+
+## Diamond Dataset Visualization
+
+This project uses a dataset of diamond prices and characteristics to create visualizations that explore the relationships between different features of the diamonds.
+
+## Prosper Loan Dataset Analysis
+
+This project analyzes a dataset of loans issued by Prosper, a peer-to-peer lending platform. The dataset contains information on loan amounts, interest rates, and borrower credit scores. The goal of this project is to identify patterns and trends in the data that may be useful for predicting loan default rates.
+
+## Communication Data Analysis
+
+This project analyzes a dataset of communication patterns between individuals in an organization. The dataset contains information on email and chat message frequency and duration. The goal of this project is to identify patterns and trends in the data that may be useful for improving communication within the organization.
+
+## Data Wrangling Case Study
+
+This project is a case study in data wrangling. It uses a dataset of tweets from the WeRateDogs Twitter account to demonstrate techniques for cleaning and transforming messy data.
+
+## WeRateDogs Data Analysis
+
+This project analyzes a dataset of tweets from the WeRateDogs Twitter account. The dataset contains information on the text of the tweets, as well as ratings and images of dogs. The goal of this project is to identify patterns and trends in the data that may be useful for understanding the popularity of different dog breeds.
+
